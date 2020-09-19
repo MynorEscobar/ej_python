@@ -1,11 +1,11 @@
 ### Repositorio Python
-Titulo: Ejemplo de repositorio con ejercicios en python.
+**Titulo:** Ejemplo de repositorio con ejercicios en python.
 
-Creado por: Jorge Luis Pérez Canto
+**Creado por:** Jorge Luis Pérez Canto
 
 ![](/img/LogoEFPEM.jpg)
 
-##Ejercicios en python
+#### Ejercicios en python
 | Link  | Descripción |
 | ------------- | ------------- |
 | [Ejercicio 1](./ejercicio1.py) | Tabla de multiplicar de forma inversa  |
